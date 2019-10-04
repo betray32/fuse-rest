@@ -1,2 +1,2 @@
-/home/ccontrerasc/workspace_jboss/fuse-rest/src/main/java/cl/poc/fuse/rest/camel/CamelProcessor.java
-/home/ccontrerasc/workspace_jboss/fuse-rest/src/main/java/cl/poc/fuse/rest/exposer/RestServiceExposer.java
+/home/ccontrerasc/GIT/fuse-rest/src/main/java/cl/poc/fuse/rest/exposer/RestServiceExposer.java
+/home/ccontrerasc/GIT/fuse-rest/src/main/java/cl/poc/fuse/rest/camel/CamelProcessor.java
